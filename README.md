@@ -25,8 +25,8 @@ Use Closing Operation
  
 ## Program:
 ```
-Developed by: GOKUL J
-Register Number: 212222230038
+Developed by: GANESH R
+Register Number: 212222240029
 ```
 
 # Display the input Image
